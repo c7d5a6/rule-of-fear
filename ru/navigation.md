@@ -11,8 +11,6 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:themechooser](Choose theme)
-
 [gimmick:theme](yeti)
 
 
@@ -21,8 +19,10 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[Дневник](pages/diary.md)
+[NPC](pages/npc.md)
+[Шепчущий Путь](pages/wispering_way.md)
+[Равенгро](pages/ravengro.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
