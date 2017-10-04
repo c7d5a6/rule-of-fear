@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Rule Of Fear
 
 
 <!--
@@ -11,7 +11,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:themechooser](Choose theme)
+
+[gimmick:theme](yeti)
 
 
 <!--
@@ -21,6 +23,7 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
