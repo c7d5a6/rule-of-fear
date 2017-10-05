@@ -20,6 +20,14 @@
   -->
 
 [PC]()
+
+  * [Амина](pages/pc_amina.md)
+  * [Дварф](pages/pc_dwarf.md)
+  * [Каннелюра](pages/pc_cannelure.md)
+  * [Лирой Дженкинс](pages/pc_leeroy.md)
+  * [Мультитран](pages/pc_multitran.md)
+  * [Эша](pages/pc_ash.md)
+
 [NPC]()
 
   * [Равенгро](pages/npc_ravengro.md)
