@@ -19,10 +19,25 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Дневник](pages/diary.md)
-[NPC](pages/npc.md)
-[Шепчущий Путь](pages/wispering_way.md)
-[Равенгро](pages/ravengro.md)
+[PC]()
+[NPC]()
+
+  * [Равенгро](pages/npc_ravengro.md)
+  * [Тамривена](pages/npc_tamrivena.md)
+  * [Лепидштадт](pages/npc_lepid.md)
+  * [Шепчущий Путь](pages/npc_ww.md)
+  * [Другие](pages/npc_other.md)
+
+[Места]()
+
+  * [Равенгро](pages/place_raven.md)
+  * [Лепидштадт](pages/place_lepid.md)
+
+[События]()
+[Дневник]()
+
+  * [Призраки Крепости](pages/diary_haunts.md)
+  * [Часть два (TBD)](pages/diary_current.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
