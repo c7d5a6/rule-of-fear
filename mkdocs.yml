@@ -17,6 +17,11 @@ pages:
 - PC: pc.md
 - About: about.md
 theme: readthedocs
+extra_javascript: 
+  - search/lunr.multi.js
+  - search/lunr.ru.js
+  - search/lunr.stemmer.support.js
+  - search/search.js
 extra_css: 
   - css/extra.css
 plugins:
