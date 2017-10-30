@@ -5,9 +5,11 @@ require.config({
 require([
     'mustache.min',
     'lunr.min',
+    'lunr.stemmer.support',
+    'lunr.ru',
     'text!search-results-template.mustache',
     'text!search_index.json',
-], function (Mustache, lunr, results_template, data) {
+], function (Mustache, lunr, stemmerSupport, ru, results_template, data) {
    "use strict";
 
     function getSearchTerm()
@@ -23,8 +25,10 @@ require([
             }
         }
     }
-
+		stemmerSupport(lunr);
+		ru(lunr);
     var index = lunr(function () {
+				this.use(lunr.ru);
         this.field('title', {boost: 10});
         this.field('text');
         this.ref('location');
