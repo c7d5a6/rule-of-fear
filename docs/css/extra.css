@@ -1,4 +1,19 @@
 .wy-side-nav-search {
  
     background-color: #000000;
+
+}
+
+.wy-side-nav-search input[type=text] {
+		border-color: #5a5a5a;
+}
+
+.wy-nav-top {
+
+    background: #000000;
+}
+
+.wy-nav-content a:visited {
+
+		color: #287fb8;
 }
