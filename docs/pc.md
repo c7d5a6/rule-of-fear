@@ -1,31 +1,44 @@
+<img src="https://pp.userapi.com/c840122/v840122230/3065f/-Fb1mAaMYI8.jpg" align="right" width="100">
 # Амина
 
-текст
-![](https://pp.userapi.com/c840122/v840122230/3065f/-Fb1mAaMYI8.jpg)
+Elf-Rogue.
+
+-------------------------------------------------------------
+
+<img src="https://pp.userapi.com/c840122/v840122911/309dc/3uO1kRLDz00.jpg" align="right" width="100">
 
 # Эша
 
 текст
-![](https://pp.userapi.com/c840122/v840122911/309dc/3uO1kRLDz00.jpg)
 
+-------------------------------------------------------------
+
+<img src="https://pp.userapi.com/c840122/v840122911/309f7/DESyDzeY3yo.jpg" align="right" width="100">
 # Каннелюра
 
 текст
-![](https://pp.userapi.com/c840122/v840122911/309f7/DESyDzeY3yo.jpg)
+
+-------------------------------------------------------------
+
+<img src="https://pp.userapi.com/c840122/v840122911/309ff/PocUo_tEZE4.jpg" align="right" width="100">
 
 # Дварф
 
 текст
-![](https://pp.userapi.com/c840122/v840122911/309ff/PocUo_tEZE4.jpg)
 
+-------------------------------------------------------------
 
+<img src="https://pp.userapi.com/c840122/v840122911/309ee/rHs1sr3CGzE.jpg" align="right" width="100">
 # Лирой Дженкинс
 
 текст
-![](https://pp.userapi.com/c840122/v840122911/309ee/rHs1sr3CGzE.jpg)
 
+-------------------------------------------------------------
+
+<img src="https://pp.userapi.com/c840122/v840122911/309e5/k1Dp8aLUBX4.jpg" align="right" width="100">
 
 # Мультитран
 
 текст
-![](https://pp.userapi.com/c840122/v840122911/309e5/k1Dp8aLUBX4.jpg)
+
+-------------------------------------------------------------

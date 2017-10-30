@@ -5,15 +5,15 @@ site_author: c7d5a6
 repo_url: https://github.com/c7d5a6/rule-of-fear/
 pages:
 - Home: index.md
-- Diary: diary.md
+- Дневник: diary.md
 - NPC: 
-  - Ravengro:      npc/npc_ravengro.md
-  - Tamrivena:     npc/npc_tamrivena.md
-  - Kurtu:         npc/npc_kurtu.md
-  - Lepidstadt:    npc/npc_lepid.md
-  - Wispering Way: npc/npc_ww.md
-  - Other:         npc/npc_other.md
-- Places: places.md
+  - Равенгро:      npc/npc_ravengro.md
+  - Тамривена:     npc/npc_tamrivena.md
+  - Курту:         npc/npc_kurtu.md
+  - Лепидштадт:    npc/npc_lepid.md
+  - Шепчущий Путь: npc/npc_ww.md
+  - Другие:        npc/npc_other.md
+- Места: places.md
 - PC: pc.md
 - About: about.md
 theme: readthedocs
