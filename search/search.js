@@ -5,9 +5,12 @@ require.config({
 require([
     'mustache.min',
     'lunr.min',
+    'lunr.stemmer.support',
+    'lunr.ru',
+    'lunr.multi',
     'text!search-results-template.mustache',
     'text!search_index.json',
-], function (Mustache, lunr, results_template, data) {
+], function (Mustache, lunr, stemmerSupport, ru, multiLanguage, results_template, data) {
    "use strict";
 
     function getSearchTerm()
@@ -23,8 +26,13 @@ require([
             }
         }
     }
+		stemmerSupport(lunr); // adds lunr.stemmerSupport
+	  ru(lunr); // adds lunr.ru key
+		multiLanguage(lunr); // adds lunr.multiLanguage key
 
     var index = lunr(function () {
+				this.use(lunr.multiLanguage('en', 'ru'));
+
         this.field('title', {boost: 10});
         this.field('text');
         this.ref('location');
