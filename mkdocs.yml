@@ -3,7 +3,7 @@ site_url: https://c7d5a6.github.io/rule-of-fear
 site_description: Rule of Fear Wiki
 site_author: c7d5a6
 repo_url: https://github.com/c7d5a6/rule-of-fear/
-google_analytics: ['UA-110463421-1', 'rule-of-fear-docs']
+google_analytics: ['UA-110463421-1', 'auto']
 pages:
 - Home: index.md
 - Дневник: diary.md
