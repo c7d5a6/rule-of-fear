@@ -3,10 +3,11 @@ site_url: https://c7d5a6.github.io/rule-of-fear
 site_description: Rule of Fear Wiki
 site_author: c7d5a6
 repo_url: https://github.com/c7d5a6/rule-of-fear/
+google_analytics: ['UA-110463421-1', 'rule-of-fear-docs']
 pages:
 - Home: index.md
 - Дневник: diary.md
-- NPC: 
+- NPC:
   - Равенгро:      npc/npc_ravengro.md
   - Тамривена:     npc/npc_tamrivena.md
   - Курту:         npc/npc_kurtu.md
@@ -17,12 +18,12 @@ pages:
 - PC: pc.md
 - About: about.md
 theme: readthedocs
-extra_javascript: 
+extra_javascript:
   - search/lunr.multi.js
   - search/lunr.ru.js
   - search/lunr.stemmer.support.js
   - search/search.js
-extra_css: 
+extra_css:
   - css/extra.css
 plugins:
   - search
