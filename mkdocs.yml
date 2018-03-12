@@ -16,7 +16,6 @@ pages:
   - Другие:        npc/npc_other.md
 - Места: places.md
 - PC: pc.md
-- About: about.md
 theme: readthedocs
 extra_javascript:
   - search/lunr.multi.js
@@ -27,3 +26,4 @@ extra_css:
   - css/extra.css
 plugins:
   - search
+  
