@@ -15,6 +15,7 @@ pages:
   - Шепчущий Путь: npc/npc_ww.md
   - Другие:        npc/npc_other.md
 - Места: places.md
+- Вещи: items.md
 - PC: pc.md
 theme: readthedocs
 extra_javascript:
@@ -26,4 +27,3 @@ extra_css:
   - css/extra.css
 plugins:
   - search
-  
