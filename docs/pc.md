@@ -36,6 +36,8 @@ Elf-Rogue.
 -------------------------------------------------------------
 
 <img src="https://pp.userapi.com/c840122/v840122911/309e5/k1Dp8aLUBX4.jpg" align="right" width="100">
+<img src="https://sun9-40.userapi.com/c857336/v857336090/f23e4/JKNHiRG7qb0.jpg" align="right" width="100">
+
 
 # Мультитран
 

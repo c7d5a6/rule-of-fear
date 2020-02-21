@@ -17,6 +17,8 @@ pages:
 - Места: places.md
 - Вещи: items.md
 - PC: pc.md
+- Классы:
+  - Forsworn Paladin: classes/forsworn_paladin.md
 theme: readthedocs
 extra_javascript:
   - search/lunr.multi.js
