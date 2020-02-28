@@ -17,6 +17,12 @@ pages:
 - Места: places.md
 - Вещи: items.md
 - PC: pc.md
+- Записи:
+  - Песенка из Равенгро: notes/song_ravengro.md
+  - Завещание: notes/will.md
+  - Журнал: notes/journal.md
+  - Письма: notes/letters.md
+  - Книги: notes/history-book.md
 - Классы:
   - Forsworn Paladin: classes/forsworn_paladin.md
 theme: readthedocs
