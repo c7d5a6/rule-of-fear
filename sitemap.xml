@@ -4,7 +4,7 @@
     
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/diary/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -21,37 +21,37 @@
         
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/npc/npc_ravengro/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/npc/npc_tamrivena/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/npc/npc_kurtu/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/npc/npc_lepid/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/npc/npc_ww/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/npc/npc_other/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -60,7 +60,7 @@
     
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/places/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/items/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -76,7 +76,7 @@
     
     <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/pc/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -84,8 +84,42 @@
     
         
     <url>
+     <loc>https://c7d5a6.github.io/rule-of-fear/notes/song_ravengro/</loc>
+     <lastmod>2020-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://c7d5a6.github.io/rule-of-fear/notes/will/</loc>
+     <lastmod>2020-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://c7d5a6.github.io/rule-of-fear/notes/journal/</loc>
+     <lastmod>2020-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://c7d5a6.github.io/rule-of-fear/notes/letters/</loc>
+     <lastmod>2020-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://c7d5a6.github.io/rule-of-fear/notes/history-book/</loc>
+     <lastmod>2020-02-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
      <loc>https://c7d5a6.github.io/rule-of-fear/classes/forsworn_paladin/</loc>
-     <lastmod>2020-02-21</lastmod>
+     <lastmod>2020-02-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
