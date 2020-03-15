@@ -377,22 +377,17 @@
         }, 
         {
             "location": "/items/", 
-            "text": "\u041f\u0440\u0435\u0434\u043c\u0435\u0442\u044b\n\n\n\u041b\u0438\u0440\u043e\u0439\n\n\n\n\n+1 Keen Longsword (1d8+1/ 17-20/x2) [eq +2]\n\n\n\n\n\u041c\u0443\u043b\u044c\u0442\u0438\u0442\u0440\u0430\u043d\n\n\n\n\nhat of disguise\n\n\n+1 dagger (1d4+1/ 19-20/x2) \u0440\u0430\u0437 \u0432 \u0434\u0435\u043d\u044c \u043d\u0430 1 \u043c\u0438\u043d\u0443\u0442\u0443 \u0441\u0432\u0435\u0442\u0438\u0442\u0441\u044f (light) +2 Ghost touch +1d6 vs undead [eq +3]\n\n\n\n\nWispering Way Amulet\n\n\n\u0430\u043c\u0443\u043b\u0435\u0442 \u0448\u0435\u043f\u0447\u0443\u0449\u0435\u0433\u043e \u043f\u0443\u0442\u0438\n\n\n\u041a\u0430\u043d\u043d\u0435\u043b\u044e\u0440\u0430\n\n\n\n\n\u0437\u043d\u0430\u0447\u0451\u043a \u0438\u0437 \u0442\u044e\u0440\u044c\u043c\u044b (Lesser ectoplasmic metamagic rod 3/per day)\n\n\n\n\n\u042d\u0448\u0430\n\n\n\n\n\u0433\u043b\u0430\u0437\u0430\n\n\nring of protection", 
+            "text": "\u041b\u0438\u0440\u043e\u0439\n\n\n\n\n+1 Keen Longsword (1d8+1/ 17-20/x2)\n\n\n\n\n\u041c\u0443\u043b\u044c\u0442\u0438\u0442\u0440\u0430\u043d\n\n\n\n\nhat of disguise\n\n\n+1 dagger (1d4+1/ 19-20/x2) \u0440\u0430\u0437 \u0432 \u0434\u0435\u043d\u044c \u043d\u0430 1 \u043c\u0438\u043d\u0443\u0442\u0443 \u0441\u0432\u0435\u0442\u0438\u0442\u0441\u044f (light) +2 Ghost touch +1d6 vs undead\n\n\n\n\nWispering Way Amulet\n\n\n\u0430\u043c\u0443\u043b\u0435\u0442 \u0448\u0435\u043f\u0447\u0443\u0449\u0435\u0433\u043e \u043f\u0443\u0442\u0438\n\n\n\u041a\u0430\u043d\u043d\u0435\u043b\u044e\u0440\u0430\n\n\n\n\n\u0437\u043d\u0430\u0447\u0451\u043a \u0438\u0437 \u0442\u044e\u0440\u044c\u043c\u044b (Lesser ectoplasmic metamagic rod 3/per day)\n\n\n\n\n\u042d\u0448\u0430\n\n\n\n\n\u0433\u043b\u0430\u0437\u0430\n\n\nring of protection\n\n\n\n\n\u041e\u0447\u043a\u0438\n\n\nStaff of Swarming Insects\n\n\n\u0414\u0435\u0440\u0435\u0432\u044f\u043d\u043d\u044b\u0439 \u043f\u043e\u0441\u043e\u0445 \u043d\u0430\u0439\u0434\u0435\u043d\u043d\u044b\u0439 \u0432 \u043a\u0440\u0435\u043f\u043e\u0441\u0442\u0438 \u041a\u0430\u0440\u043e\u043c\u0430\u0440\u043a\u0430. \u041e\u043d\u0430 \u0438\u0437 \u043f\u043b\u0435\u043d\u043d\u0438\u0446 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u043b\u0430, \u0447\u0442\u043e\n\u044d\u0442\u043e \u0435\u0451. \nhttps://www.d20pfsrd.com/magic-items/staves/staff-of-swarming-insects/", 
             "title": "\u0412\u0435\u0449\u0438"
         }, 
         {
             "location": "/items/#_1", 
-            "text": "", 
-            "title": "\u041f\u0440\u0435\u0434\u043c\u0435\u0442\u044b"
-        }, 
-        {
-            "location": "/items/#_2", 
-            "text": "+1 Keen Longsword (1d8+1/ 17-20/x2) [eq +2]", 
+            "text": "+1 Keen Longsword (1d8+1/ 17-20/x2)", 
             "title": "\u041b\u0438\u0440\u043e\u0439"
         }, 
         {
-            "location": "/items/#_3", 
-            "text": "hat of disguise  +1 dagger (1d4+1/ 19-20/x2) \u0440\u0430\u0437 \u0432 \u0434\u0435\u043d\u044c \u043d\u0430 1 \u043c\u0438\u043d\u0443\u0442\u0443 \u0441\u0432\u0435\u0442\u0438\u0442\u0441\u044f (light) +2 Ghost touch +1d6 vs undead [eq +3]", 
+            "location": "/items/#_2", 
+            "text": "hat of disguise  +1 dagger (1d4+1/ 19-20/x2) \u0440\u0430\u0437 \u0432 \u0434\u0435\u043d\u044c \u043d\u0430 1 \u043c\u0438\u043d\u0443\u0442\u0443 \u0441\u0432\u0435\u0442\u0438\u0442\u0441\u044f (light) +2 Ghost touch +1d6 vs undead", 
             "title": "\u041c\u0443\u043b\u044c\u0442\u0438\u0442\u0440\u0430\u043d"
         }, 
         {
@@ -401,14 +396,24 @@
             "title": "Wispering Way Amulet"
         }, 
         {
-            "location": "/items/#_4", 
+            "location": "/items/#_3", 
             "text": "\u0437\u043d\u0430\u0447\u0451\u043a \u0438\u0437 \u0442\u044e\u0440\u044c\u043c\u044b (Lesser ectoplasmic metamagic rod 3/per day)", 
             "title": "\u041a\u0430\u043d\u043d\u0435\u043b\u044e\u0440\u0430"
         }, 
         {
-            "location": "/items/#_5", 
+            "location": "/items/#_4", 
             "text": "\u0433\u043b\u0430\u0437\u0430  ring of protection", 
             "title": "\u042d\u0448\u0430"
+        }, 
+        {
+            "location": "/items/#_5", 
+            "text": "", 
+            "title": "\u041e\u0447\u043a\u0438"
+        }, 
+        {
+            "location": "/items/#staff-of-swarming-insects", 
+            "text": "\u0414\u0435\u0440\u0435\u0432\u044f\u043d\u043d\u044b\u0439 \u043f\u043e\u0441\u043e\u0445 \u043d\u0430\u0439\u0434\u0435\u043d\u043d\u044b\u0439 \u0432 \u043a\u0440\u0435\u043f\u043e\u0441\u0442\u0438 \u041a\u0430\u0440\u043e\u043c\u0430\u0440\u043a\u0430. \u041e\u043d\u0430 \u0438\u0437 \u043f\u043b\u0435\u043d\u043d\u0438\u0446 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u043b\u0430, \u0447\u0442\u043e\n\u044d\u0442\u043e \u0435\u0451.  https://www.d20pfsrd.com/magic-items/staves/staff-of-swarming-insects/", 
+            "title": "Staff of Swarming Insects"
         }, 
         {
             "location": "/pc/", 
@@ -574,6 +579,41 @@
             "location": "/notes/history-book/#_1", 
             "text": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0423\u0441\u0442\u0430\u043b\u0430\u0432\u0430 \u0432 \u0441\u043a\u0430\u0437\u043a\u0430\u0445 \u0438\n\u043b\u0435\u0433\u0435\u043d\u0434\u0430\u0445", 
             "title": "\u041a\u043d\u0438\u0433\u0438"
+        }, 
+        {
+            "location": "/rules/horror_adventures/", 
+            "text": "Horror Adventures\n\n\nPlan to Be Frightened\n\n\nCharacters who aren\u2019t afraid of anything \u2014 or who are\nincapable of emotion \u2014 are the worst characters to play in\na horror adventure. If the slasher bursts onto the scene and\nno one\u2019s startled or frightened, that\u2019s a bad sign for a horror\ngame. Fight-or-flight responses, instant reactions, and\nexpressions of revulsion are key components of a terrifying\nscene. In horror adventures, it is the GM\u2019s job to set up grim\nscenarios, and it is part of your job to consider how your\ncharacter would actually react to these situations.\n\n\nThat doesn\u2019t mean your character needs to be a shrieking\ncoward, though. Your character likely is skilled with weapons\nor has the power to magically manipulate reality. By the\nsame token, your character should also be a person. In the\nface of a terrifying encounter, consider how your character\nwould respond.\n\n\nIf you decide that your character would probably have\nsome sort of startled reaction to a scene, consider expressing\nthat. Your character\u2019s actions might even intersect with\nspecific game rules. but in other cases you just want it to be flavorful\nand not impede a more strategic response.\n\n\n\n\nCast a Protective Spell\n: \n  You gird yourself with magic.\n\n\nDraw a Weapon\n: \n  Usually done while taking a step back,\n  you both prepare for and distance yourself from danger.\n\n\nGape\n: \n  You hold your ground, but look on in shock.\n\n\nGuard\n: \n  Moving into position between the threat and an\n  ally, you try to prevent another from seeing the scene.\n\n\nPray/Swear\n: \n  You call upon the gods or verbally express shock.\n\n\nRetreat\n: \n  You seek escape if the situation is overwhelming.\n\n\n\n\nScreaming might also be an obvious reaction, but that\ntends to be the domain of victims, not heroes (though,\neveryone has the occasional less-than-heroic moment).\nRetreating also seems distinctly unheroic, but in a horror\ngame, that might occasionally be the prudent choice,\nespecially if it is clear that a threat outmatches your group.\nRemember that in horror games, combat is not always be the\nsurest path to victory.\n\n\nFear\n\n\nLevels of Fear\n\n\nLesser Fear\n\n\n\n\nSpooked\n: \nThe nature of your surroundings or events that you have witnessed makes you uneasy.\n\n\n-2 penalty on save vs Fear and Perception\n\n\n-1 initiative roll on first round\n\n\n\n\n\n\nShaken\n: \nFear has taken hold of you and you are no longer thinking or acting clearly.\n\n\n-2 penalty on attack rolls, saving throws, skill checks, and ability checks\n\n\n\n\n\n\nScared\n: \nYou are noticeably afraid, jumping at shadows and easily panicked by odd sights and unexplained noises.\n\n\n-4 penalty on save vs Fear\n\n\n-2 penalty on attack rolls, saving throws, skill checks, and ability checks\n\n\nIn addition, if being subject to a lesser fear effect would increase\n   your fear level, you are staggered for 1 round instead.\n\n\n\n\n\n\n\n\nGreater Fear\n\n\n\n\nFrightened\n: \nYou are so afraid that you must flee from the source of your fear.\n\n\nAll penalties of \nscared\n\n\nOn your turn, you must move away from any source of fear you perceive.\n   You can use special abilities, such as spells and equipment, to flee and must\n   resort to such abilities if they seem like the only way to escape.\n\n\nIf unable to flee, you can fight.\n\n\n\n\n\n\nPanicked\n: This functions as the \nfrightened\n condition,\n     but you drop anything held whenever you are forced to flee\n     and you flee in a random direction. In addition, you treat all\n     sources of danger as fear sources and must flee from them as\n     well. If unable to flee, you cower in fear.\n\n\nTerrified\n: This functions as \npanicked\n, but you do not\n     treat any other character as an ally and thus must attempt\n     saving throws against spells that allow them, even if the\n     spells are beneficial.\n     Once you have fled from fear each round you roll on the following table\n     to determine your course of action.\n\n\n01\u201325%\n Continue to flee, moving away from any known source of danger.\n\n\n26\u201350%\n Find a place nearby to hide, using Stealth as normal. You\n   do nothing until you are discovered (and forced to run\n   again) or you are no longer terrified\n\n\n51\u201375%\n Lash out at the nearest creature, even an ally, attacking\n   it with whatever weapon is available.\n\n\n76\u2013100%\n Do nothing. If you get this result in two consecutive\n   rounds, you no longer need to roll on this chart starting\n   on the third round and can act as normal unless you\n   encounter a source of fear or danger, in which case you\n   are still terrified and act accordingly.\n\n\n\n\n\n\nHorrified\n: \nYou are transfixed with fear and can take no actions.\n\n\n-2 penalty to your AC and flat-footed\n\n\nconsidered helpless", 
+            "title": "Horror Adventures"
+        }, 
+        {
+            "location": "/rules/horror_adventures/#horror-adventures", 
+            "text": "", 
+            "title": "Horror Adventures"
+        }, 
+        {
+            "location": "/rules/horror_adventures/#plan-to-be-frightened", 
+            "text": "Characters who aren\u2019t afraid of anything \u2014 or who are\nincapable of emotion \u2014 are the worst characters to play in\na horror adventure. If the slasher bursts onto the scene and\nno one\u2019s startled or frightened, that\u2019s a bad sign for a horror\ngame. Fight-or-flight responses, instant reactions, and\nexpressions of revulsion are key components of a terrifying\nscene. In horror adventures, it is the GM\u2019s job to set up grim\nscenarios, and it is part of your job to consider how your\ncharacter would actually react to these situations.  That doesn\u2019t mean your character needs to be a shrieking\ncoward, though. Your character likely is skilled with weapons\nor has the power to magically manipulate reality. By the\nsame token, your character should also be a person. In the\nface of a terrifying encounter, consider how your character\nwould respond.  If you decide that your character would probably have\nsome sort of startled reaction to a scene, consider expressing\nthat. Your character\u2019s actions might even intersect with\nspecific game rules. but in other cases you just want it to be flavorful\nand not impede a more strategic response.   Cast a Protective Spell : \n  You gird yourself with magic.  Draw a Weapon : \n  Usually done while taking a step back,\n  you both prepare for and distance yourself from danger.  Gape : \n  You hold your ground, but look on in shock.  Guard : \n  Moving into position between the threat and an\n  ally, you try to prevent another from seeing the scene.  Pray/Swear : \n  You call upon the gods or verbally express shock.  Retreat : \n  You seek escape if the situation is overwhelming.   Screaming might also be an obvious reaction, but that\ntends to be the domain of victims, not heroes (though,\neveryone has the occasional less-than-heroic moment).\nRetreating also seems distinctly unheroic, but in a horror\ngame, that might occasionally be the prudent choice,\nespecially if it is clear that a threat outmatches your group.\nRemember that in horror games, combat is not always be the\nsurest path to victory.", 
+            "title": "Plan to Be Frightened"
+        }, 
+        {
+            "location": "/rules/horror_adventures/#fear", 
+            "text": "", 
+            "title": "Fear"
+        }, 
+        {
+            "location": "/rules/horror_adventures/#levels-of-fear", 
+            "text": "", 
+            "title": "Levels of Fear"
+        }, 
+        {
+            "location": "/rules/horror_adventures/#lesser-fear", 
+            "text": "Spooked :  The nature of your surroundings or events that you have witnessed makes you uneasy.  -2 penalty on save vs Fear and Perception  -1 initiative roll on first round    Shaken :  Fear has taken hold of you and you are no longer thinking or acting clearly.  -2 penalty on attack rolls, saving throws, skill checks, and ability checks    Scared :  You are noticeably afraid, jumping at shadows and easily panicked by odd sights and unexplained noises.  -4 penalty on save vs Fear  -2 penalty on attack rolls, saving throws, skill checks, and ability checks  In addition, if being subject to a lesser fear effect would increase\n   your fear level, you are staggered for 1 round instead.", 
+            "title": "Lesser Fear"
+        }, 
+        {
+            "location": "/rules/horror_adventures/#greater-fear", 
+            "text": "Frightened :  You are so afraid that you must flee from the source of your fear.  All penalties of  scared  On your turn, you must move away from any source of fear you perceive.\n   You can use special abilities, such as spells and equipment, to flee and must\n   resort to such abilities if they seem like the only way to escape.  If unable to flee, you can fight.    Panicked : This functions as the  frightened  condition,\n     but you drop anything held whenever you are forced to flee\n     and you flee in a random direction. In addition, you treat all\n     sources of danger as fear sources and must flee from them as\n     well. If unable to flee, you cower in fear.  Terrified : This functions as  panicked , but you do not\n     treat any other character as an ally and thus must attempt\n     saving throws against spells that allow them, even if the\n     spells are beneficial.\n     Once you have fled from fear each round you roll on the following table\n     to determine your course of action.  01\u201325%  Continue to flee, moving away from any known source of danger.  26\u201350%  Find a place nearby to hide, using Stealth as normal. You\n   do nothing until you are discovered (and forced to run\n   again) or you are no longer terrified  51\u201375%  Lash out at the nearest creature, even an ally, attacking\n   it with whatever weapon is available.  76\u2013100%  Do nothing. If you get this result in two consecutive\n   rounds, you no longer need to roll on this chart starting\n   on the third round and can act as normal unless you\n   encounter a source of fear or danger, in which case you\n   are still terrified and act accordingly.    Horrified :  You are transfixed with fear and can take no actions.  -2 penalty to your AC and flat-footed  considered helpless", 
+            "title": "Greater Fear"
         }, 
         {
             "location": "/classes/forsworn_paladin/", 
