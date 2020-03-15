@@ -23,6 +23,8 @@ pages:
   - Журнал: notes/journal.md
   - Письма: notes/letters.md
   - Книги: notes/history-book.md
+- Правила:
+  - Horror Adventures: rules/horror_adventures.md
 - Классы:
   - Forsworn Paladin: classes/forsworn_paladin.md
 theme: readthedocs
